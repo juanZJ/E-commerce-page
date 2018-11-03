@@ -1,0 +1,19 @@
+body,
+.mui-content {
+  background: #fff;
+}
+.my-header {
+  background: #FF8080;
+}
+.my-header > h1 {
+  color: #fff;
+}
+.my-header .mui-icon-search {
+  color: #fff;
+}
+.my-footer {
+  background: #FF8080;
+}
+.my-footer .mui-tab-item {
+  color: #fff;
+}
